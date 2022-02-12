@@ -1,0 +1,65 @@
+@media (max-width: 1024px) {
+    /* about section */
+}
+@media (max-width: 991px) {
+    /* custom classes */
+    .text-content{
+        width: 100%;
+    }
+    /* navbar brand */
+    .navigation-wrap .navbar-brand img{
+        height: 3.8rem;
+    }
+    .navigation-wrap{
+        text-align: center !important;
+        background-color: var(--white-color);
+        line-height: 1.8rem;
+    }
+    .main-btn{
+        margin-top: 15px;
+    }
+    /* banner design */
+    /* carousel design */
+}
+@media (max-width: 767px) {
+    /* custom css */
+    h1{
+        font-size: 2.4rem !important;
+    }
+    h2{
+        font-size: 2rem !important;
+    }
+    /* top banner */
+    .top-banner{
+        padding: 5rem !important;
+    }
+    /* story section */
+    .story-section{
+        height: auto;
+        padding: 5rem 0px;
+    }
+    /* explore food */
+    .explore-food{
+        padding: 3rem !important;
+    }
+    /* carusel design */
+    .carusel-content p{
+        font-size: 1rem !important;
+    }
+    /* faq section */
+    .faq-section h1{
+        font-size: 2rem !important;
+    }
+    /* food book section */
+    .book-food-section h2{
+        font-size: 2rem !important;
+    }
+    /* newslettar */
+    .newslatter-section h2{
+        font-size: 1.5rem;
+    }
+    /* footer link */
+}
+@media (max-width: 330px) {
+    /* carusel design */
+}
